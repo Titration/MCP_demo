@@ -1,0 +1,9 @@
+{
+    "mcpServers": {
+      "my-api-mcp-proxy": {
+        "command": "/Users/shanxue/.local/bin/mcp-proxy",
+        "args": ["http://127.0.0.1:8000/mcp"]
+      }
+    }
+  }
+  
